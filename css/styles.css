@@ -96,7 +96,6 @@
 .link-feedback{
     font-size: 14px;
     line-height: 0.58;
-    color: #757575;
     font-style: normal;
 }
 .link-map{
@@ -107,6 +106,33 @@
     font-size: 14px;
     line-height: 0.88;
 }
+
+/* Портфолио Меню */
+
+.menu-link{
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 0.62;
+}
+
+/* Галерея */
+.examples-text-iten{
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 0.5;
+}
+.examples-name{
+    font-size: 16px;
+    line-height: 0.53;
+    color: #757575;
+}
+.examles-text{
+    font-size: 18px;
+    line-height: 0.64;
+}
+
+
+
 /* цвета логотипа #2196F3 / #000000 */
 /* цвет кнопок и ховера #2196F3 */
 /* первчиный текст #212121 */
